@@ -1,0 +1,5 @@
+D:\Programming\Projects\CSharpTools\CSharpTools\bin\Debug\CSharpTools.dll
+D:\Programming\Projects\CSharpTools\CSharpTools\bin\Debug\CSharpTools.pdb
+D:\Programming\Projects\CSharpTools\CSharpTools\obj\Debug\CSharpTools.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\CSharpTools\CSharpTools\obj\Debug\CSharpTools.dll
+D:\Programming\Projects\CSharpTools\CSharpTools\obj\Debug\CSharpTools.pdb
